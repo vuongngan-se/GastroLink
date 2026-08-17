@@ -1,0 +1,6 @@
+[
+  { "id": "b001", "name": "GastroLink Trung tâm", "city": "Hà Nội" },
+  { "id": "b002", "name": "GastroLink Phía Bắc", "city": "Hải Phòng" },
+  { "id": "b003", "name": "GastroLink Hải cảng", "city": "Đà Nẵng" },
+  { "id": "b004", "name": "GastroLink Phía Nam", "city": "TP. Hồ Chí Minh" }
+]

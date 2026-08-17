@@ -1,0 +1,222 @@
+[
+  {
+    "id": "d001",
+    "name": "Salad hạt diêm mạch và ức gà",
+    "kcal": 420,
+    "protein_g": 31,
+    "carbs_g": 38,
+    "fat_g": 16,
+    "price": 55000,
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Hạt diêm mạch (Quinoa)", "Ức gà", "Xà lách", "Cà chua bi", "Dưa chuột", "Dầu ô liu", "Nước cốt chanh"]
+  },
+  {
+    "id": "d002",
+    "name": "Bánh cuộn lúa mạch nguyên cám kẹp gà tây",
+    "kcal": 390,
+    "protein_g": 27,
+    "carbs_g": 34,
+    "fat_g": 14,
+    "price": 45000,
+    "image_url": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Vỏ bánh Tortilla nguyên cám", "Thịt gà tây xông khói", "Xà lách", "Cà chua", "Bơ", "Mù tạt"]
+  },
+  {
+    "id": "d003",
+    "name": "Bowl Địa Trung Hải đậu gà",
+    "kcal": 460,
+    "protein_g": 18,
+    "carbs_g": 52,
+    "fat_g": 19,
+    "price": 50000,
+    "image_url": "https://images.unsplash.com/photo-1529059997568-3d847b1154f0?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Đậu gà", "Ớt chuông đỏ", "Hành tây tím", "Cà chua", "Quả ô liu", "Phô mai feta", "Dầu ô liu", "Lá kinh giới ô"]
+  },
+  {
+    "id": "d004",
+    "name": "Cá hồi nướng kèm rau củ",
+    "kcal": 510,
+    "protein_g": 36,
+    "carbs_g": 22,
+    "fat_g": 30,
+    "price": 120000,
+    "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Cá hồi tươi", "Bí ngòi", "Ớt chuông", "Hành tây", "Chanh", "Thì là", "Dầu ô liu"]
+  },
+  {
+    "id": "d005",
+    "name": "Mỳ Ý nguyên cám sốt cá ngừ",
+    "kcal": 540,
+    "protein_g": 33,
+    "carbs_g": 62,
+    "fat_g": 17,
+    "price": 65000,
+    "image_url": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Mỳ Ý nguyên cám", "Cá ngừ ngâm nước", "Cà chua nghiền", "Ô liu đen", "Bạch hoa (Alcaparras)", "Tỏi", "Dầu ô liu"]
+  },
+  {
+    "id": "d006",
+    "name": "Bánh Tacos bò nạc",
+    "kcal": 610,
+    "protein_g": 35,
+    "carbs_g": 49,
+    "fat_g": 29,
+    "price": 70000,
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Vỏ bánh ngô Tortilla", "Thịt bò nạc băm", "Xà lách", "Cà chua", "Phô mai cheddar", "Bốt bơ (Guacamole)", "Sốt xanh (Salsa verde)"]
+  },
+  {
+    "id": "d007",
+    "name": "Súp bí đỏ kem sữa chua",
+    "kcal": 280,
+    "protein_g": 9,
+    "carbs_g": 31,
+    "fat_g": 11,
+    "price": 40000,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Bí đỏ", "Hành tây", "Tỏi", "Nước dùng rau củ", "Sữa chua tự nhiên", "Nhục đậu khấu", "Dầu ô liu"]
+  },
+  {
+    "id": "d008",
+    "name": "Hambơgơ nhân đậu lăng",
+    "kcal": 430,
+    "protein_g": 20,
+    "carbs_g": 47,
+    "fat_g": 16,
+    "price": 55000,
+    "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Đậu lăng chín", "Bánh mì nguyên cám", "Hành tây", "Cà rốt", "Tỏi", "Thì là Ai Cập", "Xà lách", "Cà chua"]
+  },
+  {
+    "id": "d009",
+    "name": "Cơm rang đậu phụ",
+    "kcal": 500,
+    "protein_g": 22,
+    "carbs_g": 63,
+    "fat_g": 15,
+    "price": 50000,
+    "image_url": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Cơm Basmati", "Đậu phụ săn", "Đậu nành non (Edamame)", "Cà rốt", "Ớt chuông xanh", "Nước tương", "Gừng", "Dầu mè"]
+  },
+  {
+    "id": "d010",
+    "name": "Gà Tikka kèm cơm Basmati",
+    "kcal": 620,
+    "protein_g": 39,
+    "carbs_g": 58,
+    "fat_g": 24,
+    "price": 85000,
+    "image_url": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Ức gà", "Sữa chua", "Gia vị Tikka Masala", "Cơm Basmati", "Rau mùi tươi", "Nước cốt chanh", "Tỏi", "Gừng"]
+  },
+  {
+    "id": "d011",
+    "name": "Cơm trộn Poke cá ngừ và đậu nành non",
+    "kcal": 470,
+    "protein_g": 32,
+    "carbs_g": 45,
+    "fat_g": 17,
+    "price": 95000,
+    "image_url": "https://images.unsplash.com/photo-1546069901-d5bfd2cbfb1f?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Cá ngừ tươi", "Cơm Sushi", "Đậu nành non (Edamame)", "Rong biển nori", "Bơ", "Dưa chuột", "Nước tương", "Vừng"]
+  },
+  {
+    "id": "d012",
+    "name": "Súp Miso kèm mì sợi",
+    "kcal": 340,
+    "protein_g": 14,
+    "carbs_g": 44,
+    "fat_g": 10,
+    "price": 45000,
+    "image_url": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Tương Miso", "Mì sợi lúa mì", "Đậu phụ non", "Rong biển wakame", "Hành lá", "Nước dùng Dashi", "Đậu nành"]
+  },
+  {
+    "id": "d013",
+    "name": "Bánh cuộn Burrito đậu đen và cơm",
+    "kcal": 590,
+    "protein_g": 24,
+    "carbs_g": 78,
+    "fat_g": 18,
+    "price": 60000,
+    "image_url": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Bánh Tortilla bột mì", "Đậu đen", "Cơm lứt", "Ớt chuông", "Hành tây", "Sốt cay", "Phô mai"]
+  },
+  {
+    "id": "d014",
+    "name": "Lòng trắng trứng xào rau chân vịt",
+    "kcal": 260,
+    "protein_g": 28,
+    "carbs_g": 8,
+    "fat_g": 12,
+    "price": 35000,
+    "image_url": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Lòng trắng trứng", "Rau chân vịt tươi", "Tỏi", "Cà chua bi", "Dầu ô liu", "Muối", "Tiêu đen"]
+  },
+  {
+    "id": "d015",
+    "name": "Mỳ lá Lasagna chay",
+    "kcal": 520,
+    "protein_g": 21,
+    "carbs_g": 56,
+    "fat_g": 23,
+    "price": 75000,
+    "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Lá mỳ Lasagna", "Bí ngòi", "Cà tím", "Cà chua nghiền", "Phô mai Mozzarella", "Sốt kem Bechamel ăn kiêng", "Húng tây"]
+  },
+  {
+    "id": "d016",
+    "name": "Cà ri gà nước cốt dừa thanh nhẹ",
+    "kcal": 560,
+    "protein_g": 34,
+    "carbs_g": 41,
+    "fat_g": 27,
+    "price": 80000,
+    "image_url": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Ức gà", "Nước cốt dừa ít béo", "Nghệ", "Gừng", "Tỏi", "Ớt chuông đỏ", "Cơm Basmati", "Rau mùi"]
+  },
+  {
+    "id": "d017",
+    "name": "Salad Hoàng Đế (Caesar) ăn kiêng",
+    "kcal": 410,
+    "protein_g": 29,
+    "carbs_g": 19,
+    "fat_g": 24,
+    "price": 55000,
+    "image_url": "https://images.unsplash.com/photo-1512852939750-1305098529bf?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Xà lách Roman", "Ức gà áp chảo", "Bánh mì nướng nguyên cám (Croutons)", "Phô mai Parmesan", "Sốt Caesar ít béo", "Cá cơm"]
+  },
+  {
+    "id": "d018",
+    "name": "Pizza lúa mạch nguyên cám chay",
+    "kcal": 640,
+    "protein_g": 26,
+    "carbs_g": 72,
+    "fat_g": 27,
+    "price": 90000,
+    "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Đế bánh nguyên cám", "Sốt cà chua", "Phô mai Mozzarella ít béo", "Ớt chuông", "Nấm", "Hành tây đỏ", "Rau cải cúc (Rúcula)", "Kinh giới ô (Orégano)"]
+  },
+  {
+    "id": "d019",
+    "name": "Cá tuyết áp chảo kèm khoai tây nghiền",
+    "kcal": 450,
+    "protein_g": 35,
+    "carbs_g": 33,
+    "fat_g": 18,
+    "price": 110000,
+    "image_url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Cá tuyết tươi", "Khoai tây", "Bơ", "Sữa tách béo", "Chanh", "Rau mùi tây", "Muối", "Dầu ô liu"]
+  },
+  {
+    "id": "d020",
+    "name": "Sữa chua Hy Lạp kèm trái cây và yến mạch",
+    "kcal": 330,
+    "protein_g": 19,
+    "carbs_g": 36,
+    "fat_g": 12,
+    "price": 45000,
+    "image_url": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Sữa chua Hy Lạp 0% béo", "Yến mạch", "Dâu tây", "Việt quất", "Mật ong", "Quả óc chó", "Quế"]
+  }
+]
