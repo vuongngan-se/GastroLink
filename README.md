@@ -131,7 +131,7 @@ app/src/main/java/tech/davidmartinezmuelas/gastrolink/
 ### 1️⃣ Clone dự án
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vuongngan-se/GastroLink.git
 cd GastroLink
 ```
 
